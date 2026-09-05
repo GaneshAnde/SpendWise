@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "merchant": "Starbucks",
+    "amount": 7.25,
+    "category": "FOOD",
+    "date": "2026-07-20",
+    "note": "Coffee"
+  },
+  {
+    "id": 2,
+    "merchant": "Amazon",
+    "amount": 39.99,
+    "category": "SHOPPING",
+    "date": "2026-07-18",
+    "note": "USB Cable"
+  },
+  {
+    "id": 3,
+    "merchant": "Uber",
+    "amount": 18.50,
+    "category": "TRAVEL",
+    "date": "2026-07-17",
+    "note": "Airport"
+  }
+]

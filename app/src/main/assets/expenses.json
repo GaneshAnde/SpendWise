@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "merchant": "Starbucks",
+    "amount": 7.25,
+    "category": "FOOD",
+    "date": "2026-07-20",
+    "note": "Coffee"
+  },
+  {
+    "id": 2,
+    "merchant": "Amazon",
+    "amount": 39.99,
+    "category": "SHOPPING",
+    "date": "2026-07-18",
+    "note": "USB Cable"
+  },
+  {
+    "id": 3,
+    "merchant": "Uber",
+    "amount": 18.50,
+    "category": "TRANSPORTATION",
+    "date": "2026-07-17",
+    "note": "Airport Ride"
+  },
+  {
+    "id": 4,
+    "merchant": "Netflix",
+    "amount": 15.99,
+    "category": "ENTERTAINMENT",
+    "date": "2026-07-16",
+    "note": "Monthly Subscription"
+  },
+  {
+    "id": 5,
+    "merchant": "Shell",
+    "amount": 48.30,
+    "category": "TRAVEL",
+    "date": "2026-07-15",
+    "note": "Fuel"
+  },
+  {
+    "id": 6,
+    "merchant": "Dominos",
+    "amount": 15.99,
+    "category": "Food",
+    "date": "2026-07-16",
+    "note": "Monthly Subscription"
+  },
+  {
+    "id": 57,
+    "merchant": "Wawa",
+    "amount": 48.30,
+    "category": "Food",
+    "date": "2026-07-15",
+    "note": "Fuel"
+  }
+]
