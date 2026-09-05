@@ -18,3 +18,5 @@ keystore.properties
 
 # Local Android configuration
 local.properties
+.artifacts/
+.idea/
